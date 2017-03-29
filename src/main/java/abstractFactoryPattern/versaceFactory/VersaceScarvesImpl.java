@@ -8,6 +8,6 @@ import abstractFactoryPattern.Scarves;
 public class VersaceScarvesImpl implements Scarves {
     @Override
     public String getScarvesCompany() {
-        return "Versace";
+        return "Versace Scarves";
     }
 }

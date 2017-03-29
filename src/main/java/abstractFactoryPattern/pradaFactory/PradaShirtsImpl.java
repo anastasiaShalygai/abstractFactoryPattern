@@ -8,6 +8,6 @@ import abstractFactoryPattern.Shirts;
 public class PradaShirtsImpl implements Shirts {
     @Override
     public String getShirtsCompany() {
-        return "Prada";
+        return "Prada Shirts";
     }
 }
